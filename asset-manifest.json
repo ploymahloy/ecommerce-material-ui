@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ecommerce-material-ui/static/js/main.ec495366.chunk.js",
+    "main.js.map": "/ecommerce-material-ui/static/js/main.ec495366.chunk.js.map",
+    "runtime-main.js": "/ecommerce-material-ui/static/js/runtime-main.e2d2c79c.js",
+    "runtime-main.js.map": "/ecommerce-material-ui/static/js/runtime-main.e2d2c79c.js.map",
+    "static/js/2.8d12c0b0.chunk.js": "/ecommerce-material-ui/static/js/2.8d12c0b0.chunk.js",
+    "static/js/2.8d12c0b0.chunk.js.map": "/ecommerce-material-ui/static/js/2.8d12c0b0.chunk.js.map",
+    "index.html": "/ecommerce-material-ui/index.html",
+    "precache-manifest.8914a07217c8da87dfec06af007eed7d.js": "/ecommerce-material-ui/precache-manifest.8914a07217c8da87dfec06af007eed7d.js",
+    "service-worker.js": "/ecommerce-material-ui/service-worker.js",
+    "static/js/2.8d12c0b0.chunk.js.LICENSE.txt": "/ecommerce-material-ui/static/js/2.8d12c0b0.chunk.js.LICENSE.txt",
+    "static/media/nft.png": "/ecommerce-material-ui/static/media/nft.d6dde749.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2d2c79c.js",
+    "static/js/2.8d12c0b0.chunk.js",
+    "static/js/main.ec495366.chunk.js"
+  ]
+}
